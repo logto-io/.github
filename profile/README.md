@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://logto.io" target="_blank" align="center" alt="Logto Logo">
-    <img src="https://github.com/logto-io/logto/raw/master/logo.png" width="100">
+    <img src="https://github.com/logto-io/logto/raw/master/logo.png" height="100">
   </a>
 </p>
 
