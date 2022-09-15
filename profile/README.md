@@ -16,6 +16,6 @@ This is the official organization of Logto.
 
 - 🧑‍🚀 [logto-io/logto](https://github.com/logto-io/logto) is the main monorepo of Logto core service, admin console, sign-in experience, etc.
 
-- We have a 🗓️ [public roadmap](https://github.com/orgs/logto-io/projects/5) available, feel free to 💬 [join our Discord server](https://discord.gg/UEPaF3j5e6) to let us know your thoughts.
+- We have a 🗓️ [public roadmap](https://silverhand.notion.site/Logto-Public-Roadmap-d6a1ad19039946b7b1139811aed82dcc) available, feel free to 💬 [join our Discord server](https://discord.gg/UEPaF3j5e6) to let us know your thoughts.
 
 [^info]: Licensed with MPL-2.0. Designed by Silverhand Inc.
