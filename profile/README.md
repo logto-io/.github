@@ -18,4 +18,9 @@ This is the official organization of Logto.
 
 - We have a 🗓️ [public roadmap](https://silverhand.notion.site/Logto-Public-Roadmap-d6a1ad19039946b7b1139811aed82dcc) available, feel free to 💬 [join our Discord server](https://discord.gg/UEPaF3j5e6) to let us know your thoughts.
 
+---
+
+Subscribe to us right away to receive up-to-date information about the Logto Cloud (SaaS) as well as in-time feature updates.
+https://logto.io/subscribe
+
 [^info]: Licensed with MPL-2.0. Designed by Silverhand Inc.
