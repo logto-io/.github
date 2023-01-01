@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Logto[^info] helps you build the sign-in, auth, and user identity within minutes.
+Logto[^info] helps you build sign-in, auth, and user identity.
 
 ---
 
@@ -12,7 +12,7 @@ This is the official organization of Logto.
 
 - If you are new to Logto, visit our 🎨 [website](https://logto.io) for a brief introduction.
 
-- A step-by-step guide is available on 📖 [docs.logto.io](https://docs.logto.io) (also in [简体中文](https://docs.logto.io/zh-cn)).
+- A step-by-step guide is available on 📖 [docs.logto.io](https://docs.logto.io).
 
 - 🧑‍🚀 [logto-io/logto](https://github.com/logto-io/logto) is the main monorepo of Logto core service, admin console, sign-in experience, etc.
 
