@@ -4,9 +4,21 @@
   </a>
 </p>
 
-Logto[^info] helps you build sign-in, auth, and user identity.
+---
+
+<p align="center">
+Logto is going to lauch Cloud (Preview) and OSS General Availabilty on <a href="https://www.producthunt.com/products/logto" target="_blank">Product Hunt!</a><br/>
+Click the “Notify me” button on the page in order to receive a notification when our launch is live.
+</p>
+<p align="center">
+😊 See you on the cloud!
+</p>
 
 ---
+
+Logto[^info] helps you build sign-in, auth, and user identity.
+
+## About
 
 This is the official organization of Logto.
 
@@ -18,9 +30,8 @@ This is the official organization of Logto.
 
 - We have a 🗓️ [public roadmap](https://silverhand.notion.site/Logto-Public-Roadmap-d6a1ad19039946b7b1139811aed82dcc) available, feel free to 💬 [join our Discord server](https://discord.gg/UEPaF3j5e6) to let us know your thoughts.
 
----
+## Don't miss anything
 
-Subscribe to us right away to receive up-to-date information about the Logto Cloud (SaaS) as well as in-time feature updates.
-https://logto.io/subscribe
+[Subscribe to us](https://logto.io/subscribe) right away to receive up-to-date information about the Logto Cloud (managed service) as well as in-time feature updates.
 
 [^info]: Licensed with MPL-2.0. Designed by Silverhand Inc.
