@@ -14,8 +14,15 @@
 <!-- How did you test this PR? -->
 
 
-## Check List
-- [ ] .changset-staged
-- [ ] UnitTest
-- [ ] InteractionTest
-- [ ] Docs
+<!-- MANDATORY -->
+## Checklist
+<!-- The palest ink is better than the best memory -->
+
+- [ ] `.changset-staged`
+- [ ] unit tests
+- [ ] integration tests
+- [ ] docs
+
+OR
+
+- [ ] This PR is not applicable for the checklist
