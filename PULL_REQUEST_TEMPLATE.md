@@ -6,10 +6,16 @@
 
 <!-- MANDATORY -->
 ## Summary
-<!-- Provide detail PR description below -->
+<!-- Provide detailed PR description below -->
 
 
 <!-- MANDATORY -->
 ## Testing
 <!-- How did you test this PR? -->
 
+
+## Check List
+- [ ] .changset-staged
+- [ ] UnitTest
+- [ ] InteractionTest
+- [ ] Docs
