@@ -16,7 +16,7 @@ Click the “Notify me” button on the page in order to receive a notification 
 
 ---
 
-Logto[^info] helps you build sign-in, auth, and user identity.
+Logto[^info] is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
 
 ## About
 
