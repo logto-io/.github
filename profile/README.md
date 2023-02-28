@@ -34,4 +34,4 @@ This is the official organization of Logto.
 
 [Subscribe to us](https://logto.io/subscribe) right away to receive up-to-date information about the Logto Cloud (managed service) as well as in-time feature updates.
 
-[^info]: Licensed with MPL-2.0. Designed by Silverhand Inc.
+[^info]: Designed by Silverhand Inc.
