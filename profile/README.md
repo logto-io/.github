@@ -4,17 +4,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-Logto has launched Cloud (Preview) and OSS General Availability on <a href="https://www.producthunt.com/posts/logto-cloud-preview" target="_blank">Product Hunt</a>.<br/> 
-</p>
-<p align="center">
-😊 Come and support us! We'll see you on the cloud.
-</p>
-
----
-
 Logto[^info] is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
 
 ## About
@@ -22,6 +11,8 @@ Logto[^info] is a cost-effective open-source alternative to Auth0. It offers a s
 This is the official organization of Logto.
 
 - If you are new to Logto, visit our 🎨 [website](https://logto.io) for a brief introduction.
+
+- If you prefer using a cloud product, try ☁️ [Logto Cloud](https://cloud.logto.io/?sign_up=true)
 
 - A step-by-step guide is available on 📖 [docs.logto.io](https://docs.logto.io).
 
