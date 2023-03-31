@@ -18,7 +18,7 @@
 ## Checklist
 <!-- The palest ink is better than the best memory -->
 
-- [ ] `.changset-staged`
+- [ ] `.changset`
 - [ ] unit tests
 - [ ] integration tests
 - [ ] docs
