@@ -2,7 +2,7 @@
 name: Bug report
 about: Something isn't working, or doesn't work as expected
 title: 'bug: '
-labels: bug, pending-verification
+labels: bug,pending-verification
 assignees: ''
 
 ---
@@ -23,18 +23,12 @@ assignees: ''
 <!-- A step-by-step reproduce process. A minimum repro repo is welcome. -->
 
 ### Context
+<!-- Check the Logto environment you are using. -->
 
-OS: 
-<!-- E.g. Docker, Docker Compose, local, etc. -->
-Environment: 
-
-Logto version: 
-
-Node version:
-
-Postgres version: 
-
-Command of starting Logto: 
+- [ ] Logto Cloud
+- [ ] Self-hosted, Logto version = <!-- Fulfill the Logto version here if you are self-hosting. -->
+  - [ ] Container (Docker image)
+  - [ ] Raw Node.js
 
 <!-- Optional -->
 ### Screenshots
