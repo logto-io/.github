@@ -34,6 +34,6 @@ We encourage you to read the relevant documentation before asking a question. Ma
 
 Moreover, it’s important to take a moment to search the existing threads to see if your question has already been answered. This will not only save you time and effort, but also prevent the community from being flooded with repetitive questions. If you can’t find the answer you’re looking for, feel free to post a new question. 
 
-### This isn't Customer Support
+### This isn't customer support
 
-While we encourage everyone to help each other out, please understand that this is not a customer service channel. While we'll do our best to assist with any questions you may have, we can't guarantee a response to every inquiry. If you require business assistance, please do not hesitate to contact us via [email](contact@logto.io).
+While we encourage everyone to help each other out, please understand that our community is not a customer service channel. While we'll do our best to assist with any questions you may have, we can't guarantee a response to every inquiry. If you require business assistance, please do not hesitate to contact us via [email](contact@logto.io).
