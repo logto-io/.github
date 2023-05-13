@@ -10,11 +10,11 @@ Logto[^info] is a cost-effective open-source alternative to Auth0. It offers a s
 
 This is the official organization of Logto.
 
-- If you are new to Logto, visit our 🎨 [website](https://logto.io) for a brief introduction.
+- If you are new to Logto, visit our 🎨 [website](https://logto.io/?utm_source=github&utm_medium=community_health) for a brief introduction.
 
-- If you prefer using a cloud product, try ☁️ [Logto Cloud](https://cloud.logto.io/?sign_up=true)
+- If you prefer using a cloud product, try ☁️ [Logto Cloud](https://cloud.logto.io/?utm_source=github&utm_medium=community_health&sign_up=true)
 
-- A step-by-step guide is available on 📖 [docs.logto.io](https://docs.logto.io).
+- A step-by-step guide is available on 📖 [docs.logto.io](https://docs.logto.io/?utm_source=github&utm_medium=community_health).
 
 - 🧑‍🚀 [logto-io/logto](https://github.com/logto-io/logto) is the main monorepo of Logto core service, admin console, sign-in experience, etc.
 
@@ -22,6 +22,8 @@ This is the official organization of Logto.
 
 ## Don't miss anything
 
-[Subscribe to us](https://logto.io/subscribe) right away to receive up-to-date information about the Logto Cloud (managed service) as well as in-time feature updates.
+- Visit our 📝 [blog](https://blog.logto.io/?utm_source=github&utm_medium=community_health) to see our news, practical posts and resources.
+
+- [Subscribe to us](https://logto.io/subscribe?utm_source=github&utm_medium=community_health) right away to receive up-to-date information about the Logto Cloud (managed service) as well as in-time feature updates.
 
 [^info]: Designed by Silverhand Inc.
