@@ -21,8 +21,4 @@
 - [ ] `.changeset`
 - [ ] unit tests
 - [ ] integration tests
-- [ ] docs
-
-OR
-
-- [ ] This PR is not applicable for the checklist
+- [ ] necessary TSDoc comments
