@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Logto[^info] is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations. 
+Logto[^info] is an Auth0 alternative designed for modern apps and SaaS products.
 
 ## About
 
