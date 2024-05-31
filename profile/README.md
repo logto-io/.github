@@ -16,7 +16,7 @@ Every app needs authentication and authorization. Logto is an open-source Auth0 
 
 - If you are new to Logto, visit our 🎨 [website](https://logto.io/?utm_source=github&utm_medium=community_health) for a brief introduction.
 - A step-by-step guide is available on 📖 [docs.logto.io](https://docs.logto.io/?utm_source=github&utm_medium=community_health).
-- 🧑‍🚀 [logto-io/logto](https://github.com/logto-io/logto) is the main monorepo of Logto core service, admin console, sign-in experience, etc.
+- 🧑‍🚀 [logto-io/logto](https://github.com/logto-io/logto) is the main monorepo for Logto OSS, admin console, sign-in experience, etc.
 - We have a 📍 [public roadmap](https://logto.productlane.com/roadmap) available, feel free to engage with it. You can also 💬 [join our Discord server](https://discord.gg/UEPaF3j5e6) to let us know your thoughts.
 
 ## Logto Cloud
@@ -25,7 +25,7 @@ Every app needs authentication and authorization. Logto is an open-source Auth0 
 
 Built on top of the Logto OSS, Logto Cloud offers a fully managed, scalable, and secure cloud service for your authentication and authorization needs. It offers:
 
-- **Free tier**: Start for free with 50,000 monthly active users.
+- **Free tier**: Start for free with 50,000 monthly active users; our Pro plan offers [unlimited monthly active users](https://logto.io/pricing?utm_source=github&utm_medium=community_health).
 - **Scalability**: Scale to millions of users without worrying about performance.
 - **Security**: Secure by default with the industry best practices.
 - **Zero maintenance**: The Logto team takes care of the infrastructure.
