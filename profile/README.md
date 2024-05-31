@@ -21,7 +21,7 @@ Every app needs authentication and authorization. Logto is an open-source Auth0 
 
 ## Logto Cloud
 
-[Logto Cloud](https://cloud.logto.io/?utm_source=github&utm_medium=community_health&sign_up=true) is the official managed service of Logto.
+**[Logto Cloud](https://cloud.logto.io/?utm_source=github&utm_medium=community_health&sign_up=true) is the official managed service of Logto.**
 
 Built on top of the Logto OSS, Logto Cloud offers a fully managed, scalable, and secure cloud service for your authentication and authorization needs. It offers:
 
