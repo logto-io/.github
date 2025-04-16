@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Something isn't working, or doesn't work as expected
-title: 'bug: '
-labels: bug,pending-verification
-assignees: ''
+title: "bug: "
+labels: "bug, pending-verification"
+assignees: ""
 
 ---
 
