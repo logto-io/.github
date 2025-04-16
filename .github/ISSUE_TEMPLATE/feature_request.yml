@@ -1,8 +1,7 @@
 name: Feature request
-about: Suggest an idea for this project
+description: Suggest an idea for this project
 title: "feature request: "
 labels: ["feature-request"]
-assignees:
 body:
   - type: markdown
     attributes:
@@ -16,8 +15,12 @@ body:
     id: problem
     label: What problem did you meet?
     description: A clear and concise description of what the problem is.
+    validations:
+      required: true
 
   - type: textarea
     id: need
     label: "Describe what you'd like Logto to have"
     description: A clear and concise description of what you want to happen.
+    validations:
+      required: true
