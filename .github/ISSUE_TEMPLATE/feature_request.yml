@@ -13,14 +13,16 @@ body:
 
   - type: textarea
     id: problem
-    label: What problem did you meet?
-    description: A clear and concise description of what the problem is.
+    attributes:
+      label: What problem did you meet?
+      description: A clear and concise description of what the problem is.
     validations:
       required: true
 
   - type: textarea
-    id: need
-    label: "Describe what you'd like Logto to have"
-    description: A clear and concise description of what you want to happen.
+    id: request
+    attributes:
+      label: "Describe what you'd like Logto to have"
+      description: A clear and concise description of what you want to happen.
     validations:
       required: true
