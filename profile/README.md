@@ -12,7 +12,9 @@
 
 This is the official organization of Logto[^info].
 
-Logto is the modern, open-source identity platform built for SaaS developers and enterprises. Designed for consumer and multi-tenant SaaS apps, Logto makes it easy to add secure, production-ready auth while providing a developer-first experience, scalability, and flexibility.
+**Logto is the modern, open-source identity platform for SaaS developers and enterprises.**
+
+It takes the pain out of OIDC and OAuth 2.1 and makes it easy to build secure, production-ready auth with multi-tenancy, enterprise SSO, and RBAC.
 
 - New to Logto? Check out our 🎨 [website](https://logto.io/?utm_source=github&utm_medium=community_health) for a quick introduction.
 - Explore our 📖 [step-by-step guide](https://docs.logto.io/?utm_source=github&utm_medium=community_health).
